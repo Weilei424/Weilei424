@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ### I'm Mason, a second year Computer Science student at York University, Toronto, Canada
 
 
