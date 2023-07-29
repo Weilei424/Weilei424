@@ -2,8 +2,8 @@
 ### I'm Mason, a second year Computer Science student at York University, Toronto, Canada
 
 
-- 🔭 I’m currently working on a Spring Boot web application.
-- 🌱 I’m currently learning Spring Framework.
+- 🔭 I’m currently working on a web application using Spring Boot as backend.
+- 🌱 I’m currently learning Spring Framework and AWS.
 
 ---
 
