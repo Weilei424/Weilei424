@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a Spring Boot web application.
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Framework.
 
 ---
 
