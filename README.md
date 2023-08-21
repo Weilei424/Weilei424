@@ -1,9 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### I'm Mason, a second year Computer Science student at York University, Toronto, Canada
+### I'm Mason, a third year Computer Science student at York University, Toronto, Canada
 
 
 - 🔭 I’m currently working on a web application using Spring Boot as backend.
-- 🌱 I’m currently learning Spring Framework and AWS.
+- 🌱 I’m currently learning Spring Framework, AWS and Redis.
 
 ---
 
