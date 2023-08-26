@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a web application using Spring Boot as backend.
-- 🌱 I’m currently learning Spring Framework, AWS and Redis.
+- 🌱 I’m currently learning Spring framework, AWS and Gin framework.
 - 👯 I’m looking to collaborate on web applications, RESTful APIs
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
 ---
