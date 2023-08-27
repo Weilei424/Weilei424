@@ -1,31 +1,37 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### I'm Mason, a third year Computer Science student at York University, Toronto, Canada
+### :blush: I'm Mason, a third year Computer Science student at York University, Toronto, Canada
 
 
 - 🔭 I’m currently working on a web application using Spring Boot as backend.
 - 🌱 I’m currently learning Spring framework, AWS and Gin framework.
 - 👯 I’m looking to collaborate on web applications, RESTful APIs
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="UNIX" alt="UNIX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
-  
-</div>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=java,go,c,html,css,javascript" />
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=spring,mysql,redis,aws,docker,git" />
+  </a>
+</p>
+
+---
+
+### :speech_balloon: Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/zhenxu-wang/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discord.com/users/204431902080237569">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 ---
 
