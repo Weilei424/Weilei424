@@ -17,9 +17,15 @@
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=spring,mysql,redis,aws,docker,git" />
+    <img src="https://skillicons.dev/icons?i=spring,mysql,redis,docker,kafka,aws" />
   </a>
 </p>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,linux,maven,gradle,vim,azure" />
+  </a>
+</p>
+
 
 ---
 
