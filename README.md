@@ -12,19 +12,19 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,go,c,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=spring,mysql,redis,docker,kafka,aws" />
+    <img src="https://skillicons.dev/icons?i=docker,kafka,aws,linux,git" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,linux,maven,gradle" />
+    <img src="https://skillicons.dev/icons?i=linux,maven,gradle" />
   </a>
-</p>
+</p> -->
 
 
 ---
