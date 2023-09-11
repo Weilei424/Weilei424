@@ -2,7 +2,7 @@
 ### :blush: I'm Mason, a third year Computer Science student at York University, Toronto, Canada
 
 
-- 🔭 I’m currently working on a web application using Spring Boot as backend.
+- 🔭 I’m currently working on the backend of a web application using Spring Boot.
 - 🌱 I’m currently learning Kafka and Redis.
 - 👯 I’m looking to collaborate on web applications, RESTful APIs.
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
