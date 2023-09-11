@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the backend of a web application using Spring Boot.
 - 🌱 I’m currently learning Kafka and Redis.
-- 👯 I’m looking to collaborate on web applications, RESTful APIs.
+- 👯 I’m looking to collaborate on web applications, RESTful APIs and midware implementations in Java or Go.
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
 
 ---
