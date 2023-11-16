@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on realtime chat application with Go/Gin, Redis.
-- 🌱 I’m currently learning Kafka and Redis.
+- 🌱 I’m currently learning Gin and Redis.
 - 👯 I’m looking to collaborate on web applications, RESTful APIs and midware implementations in Java or Go.
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
 
