@@ -9,7 +9,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis" />
@@ -29,7 +29,7 @@
 
 ---
 
-### :speech_balloon: Connect with me:
+### Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/zhenxu-wang/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
