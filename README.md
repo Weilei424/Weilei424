@@ -12,12 +12,12 @@
 ### Languages and Tools :
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis,kafka" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=docker,kafka,aws,linux,git" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,git" />
   </a>
 </p>
 <!-- <p align="center">
@@ -41,17 +41,17 @@
 
 ---
 
-<details>
-  <summary> :fire: My GitHub Stats </summary>
-  <div align="center">
+
+:fire: My GitHub Stats 
+<div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Weilei424&theme=dark&background=000000)](https://git.io/streak-stats)
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weilei424&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
   <p align="center"><img src="https://komarev.com/ghpvc/?username=weilei424&label=Profile%20views&color=0e75b6&style=flat" alt="weilei424" /> </p>
-  </div>
-</details>
+</div>
+
 
 ---
 
