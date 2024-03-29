@@ -2,8 +2,8 @@
 ### :blush: I'm Mason, a third year Computer Science student at York University, Toronto, Canada
 
 
-- 🔭 I’m currently working on school stuffs.
-- 🌱 I’m currently learning Gin and Spring Cloud.
+- 🔭 I’m currently working on school stuff.
+- 🌱 I’m currently learning Terraform and Spring Cloud.
 - 👯 I’m looking to collaborate on web applications, RESTful APIs and midware implementations in Java or Go.
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
 
