@@ -2,7 +2,7 @@
 ### :blush: I'm Mason, a third year Computer Science student at York University, Toronto, Canada
 
 
-- 🔭 I’m currently working on school stuff.
+- 🔭 I’m currently working at Demonware as a DevOps engineer intern.
 - 🌱 I’m currently learning Terraform and Spring Cloud.
 - 👯 I’m looking to collaborate on web applications, RESTful APIs and midware implementations in Java or Go.
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
@@ -12,12 +12,12 @@
 ### Languages and Tools :
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis,kafka" />
+    <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis,kafka,docker,kubernetes" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,git" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,grafana,prometheus,linux,jenkins,git" />
   </a>
 </p>
 <!-- <p align="center">
