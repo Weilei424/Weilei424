@@ -1,8 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### :blush: I'm Mason, a third year Computer Science student at York University, Toronto, Canada
+### :blush: I'm Mason, a forth year Computer Science student at York University, Toronto, Canada
 
 
-- 🔭 I’m currently working at Activision Central Tech as a DevOps engineer intern.
+<!-- - 🔭 I’m currently working at Activision Central Tech as a DevOps engineer intern. -->
 - 🌱 I’m currently learning Spring Cloud and Spark.
 - 👯 I’m looking to collaborate on web applications, RESTful APIs and midware implementations in Java or Go.
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
