@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an Internal Developer Platform and a Real-Time Collaborative Document Editing Engine.
 <!-- - 🌱 I’m currently learning Spring Cloud and Spark. -->
-- 👯 I’m looking to collaborate on web applications, RESTful APIs and midware implementations in Java or Go.
+<!--- 👯 I’m looking to collaborate on web applications, RESTful APIs and midware implementations in Java or Go.-->
 <!-- 🤔 I’m looking for a Java/Go backend development mentor -->
 
 ---
