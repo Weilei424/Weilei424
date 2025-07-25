@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,grafana,prometheus,linux,jenkins,git" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,grafana,prometheus,linux,githubactions,git" />
   </a>
 </p>
 <!-- <p align="center">
