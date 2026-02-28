@@ -53,6 +53,8 @@
   <p align="center"><img src="https://komarev.com/ghpvc/?username=weilei424&label=Profile%20views&color=0e75b6&style=flat" alt="weilei424" /> </p>
 </div>
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
