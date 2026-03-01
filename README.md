@@ -13,12 +13,12 @@
 ### Languages and Tools :
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis,kafka,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=java,go,rust,spring,postgres,mysql,redis,kafka,git" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,grafana,prometheus,linux,githubactions,git" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,grafana,prometheus,linux,githubactions" />
   </a>
 </p>
 <!-- <p align="center">
