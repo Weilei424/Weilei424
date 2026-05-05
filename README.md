@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### :blush: I'm Mason, a forth year Computer Science student at York University, Toronto, Canada
+### :blush: I'm Mason, recent Computer Science graduate at York University, Toronto, Canada
 
 
 <!-- - 🔭 I’m currently working on an Internal Developer Platform and a Real-Time Collaborative Document Editing Engine. -->
