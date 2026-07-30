@@ -48,7 +48,7 @@
   
   <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Weilei424&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-  ![Stats](./profile/stats.svg)
+  <!--![Stats](./profile/stats.svg)-->
     
   ![Top Languages](./profile/top-langs.svg)
     
